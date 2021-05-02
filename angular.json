@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "profilebook"
+    }
+  },
+  "defaultProject": "profilebook",
+  "cli": {
+    "analytics": false
+  }
 }
